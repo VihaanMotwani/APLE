@@ -1,0 +1,1 @@
+Transpiration is the release of water vapor from plants into the atmosphere. It is important in the water cycle because it adds to atmospheric moisture, playing a crucial role in regulating the movement and distribution of water across the Earth. Transpiration is part of maintaining the balance of the water cycle, which is essential for supporting ecosystems and human activities.

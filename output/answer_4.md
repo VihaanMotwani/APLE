@@ -1,0 +1,1 @@
+Infiltration contributes to the water cycle by allowing water to seep into the ground, replenishing groundwater supplies.

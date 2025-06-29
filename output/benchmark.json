@@ -1,0 +1,57 @@
+{
+    "topic": "Water cycle",
+    "learning_objectives": [
+        {
+            "objective_id": "LO1",
+            "statement": "Upon successful completion of this unit, students will be able to describe the stages of the water cycle including evaporation, condensation, precipitation, and collection."
+        },
+        {
+            "objective_id": "LO2",
+            "statement": "Upon successful completion of this unit, students will be able to explain the roles of solar energy and gravity in driving the water cycle."
+        },
+        {
+            "objective_id": "LO3",
+            "statement": "Upon successful completion of this unit, students will be able to analyze the effects of the water cycle on climate and weather patterns."
+        },
+        {
+            "objective_id": "LO4",
+            "statement": "Upon successful completion of this unit, students will be able to evaluate human impacts on the water cycle and propose sustainable solutions."
+        },
+        {
+            "objective_id": "LO5",
+            "statement": "Upon successful completion of this unit, students will be able to create a written explanation of how a change in one stage of the water cycle affects the entire system."
+        }
+    ],
+    "questionnaire": [
+        {
+            "question_id": "Q1",
+            "question": "What are the main stages of the water cycle?",
+            "answer": "The main stages of the water cycle are evaporation, condensation, precipitation, and collection. Evaporation involves the transformation of water from liquid to vapor, condensation is the process by which water vapor cools and turns into liquid droplets, precipitation occurs when these droplets fall to the Earth in forms such as rain or snow, and collection is when the precipitation gathers in bodies of water like rivers, lakes, and oceans."
+        },
+        {
+            "question_id": "Q2",
+            "question": "How does solar energy influence the water cycle?",
+            "answer": "Solar energy is crucial to the water cycle as it provides the energy necessary for evaporation. The sun\u2019s heat warms water in rivers, lakes, and oceans, causing it to evaporate and rise into the atmosphere as water vapor. Without solar energy, the evaporation stage of the water cycle would not occur."
+        },
+        {
+            "question_id": "Q3",
+            "question": "In what ways does gravity play a role in the water cycle?",
+            "answer": "Gravity is essential in the water cycle as it facilitates the movement of water from the atmosphere to the Earth\u2019s surface during precipitation. It also aids in the runoff of water from mountains and hills into collection bodies like rivers and oceans. Gravity ensures that water continues to circulate through the different stages of the water cycle."
+        },
+        {
+            "question_id": "Q4",
+            "question": "What impact does the water cycle have on climate and weather patterns?",
+            "answer": "The water cycle significantly impacts climate and weather patterns by regulating temperature and distributing heat around the globe. It influences humidity levels, air temperature, and precipitation patterns, which are crucial determinants of climate. The cycle\u2019s ability to transport heat from one area to another affects atmospheric conditions and helps maintain weather stability."
+        },
+        {
+            "question_id": "Q5",
+            "question": "What are some human activities that affect the water cycle, and how can sustainability be promoted?",
+            "answer": "Human activities such as deforestation, urbanization, and pollution disrupt the water cycle. Deforestation reduces transpiration while urbanization increases runoff and decreases groundwater recharge. Pollution can contaminate water bodies. To promote sustainability, reforestation, sustainable urban planning, and pollution control measures should be implemented to preserve and support natural water cycle processes."
+        },
+        {
+            "question_id": "Q6",
+            "question": "Describe how a change in one stage of the water cycle can impact the rest of the system.",
+            "answer": "A change in one stage of the water cycle, such as reduced evaporation due to decreased solar energy, can lead to lower cloud formation, impacting precipitation levels and affecting the water supply in collection areas. Similarly, increased precipitation due to climate change can lead to flooding, affecting both natural and human environments. Each stage is interconnected, meaning alterations in one stage ripple through the entire cycle."
+        }
+    ]
+}

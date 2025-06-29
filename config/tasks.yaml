@@ -1,0 +1,31 @@
+knowledge_organization_task:
+  description: >
+    Please analyze the following conversation transcript about the topic: {topic}.
+    Your task is to process this transcript according to your core function and produce a single, clean, structured Markdown document. Filter out all conversational noise and redundant information.
+    MAINTAIN FIDELITY TO THE CONVERSATION. You must not add anything from your own knowledge and must not make any inferences.
+
+    Conversation:
+    {conversation}
+  expected_output: >
+    A single, complete Markdown document that synthesizes all the key information from the transcript. 
+    The document should be well-structured with headings, subheadings, and bullet points, and contain no conversational filler.
+  agent: knowledge_manager
+  markdown: true
+  output_file: output/knowledge_base.md
+
+scoring_and_analysis_task:
+  description: >
+    Your task is to act as the Chief Academic Examiner. You will be given a complete set of test data, including the question, the official correct answer (the "answer key"), and the protégé's submitted answer for each item. You must perform the following actions:
+
+      - Evaluate Each Item: For every question, compare the "Protégé's Answer" to the "Correct Answer".
+      - Assign a Score: Use the following rubric for scoring:
+        2 points: The protégé's answer is fully correct and captures all key aspects of the correct answer.
+        1 point: The protégé's answer is partially correct but is missing key details or contains minor inaccuracies.
+        0 points: The protégé's answer is incorrect, irrelevant, or they stated they did not know the answer.
+      - Generate the Report: Synthesize all your evaluations into a single JSON object, including overall_score_percentage,   overall_remarks, and a list of question_evaluations.
+
+    The `overall_remarks` section must be broken down into three parts:
+    1. Strengths: A positive summary of what the protégé understood well.
+    2. Areas for Improvement: A constructive analysis of incorrect or incomplete answers, identifying specific topics the protégé should revisit.
+    3. Suggested Next Steps: Actionable recommendations for further learning, including concepts to explore or related topics to read about.
+  

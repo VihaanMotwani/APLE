@@ -1,0 +1,1 @@
+Evaporation is the process where water transforms into vapor due to heat, usually from the sun, and enters the atmosphere. In the water cycle, it occurs when the heat of the sun causes water from oceans, lakes, etc., to turn to vapor and rise into the atmosphere.
